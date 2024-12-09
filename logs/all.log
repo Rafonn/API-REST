@@ -1,0 +1,84 @@
+2024-11-18 14:06:54 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-18 14:08:00 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-18 14:08:00 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-18 14:08:20 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-18 14:08:20 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-18 14:08:38 - [31merror[39m: [31mNão foi possivel conectar[39m
+2024-11-18 14:08:38 - [31merror[39m: [31mquerySrv ENOTFOUND _mongodb._tcp.luster0.k2twj.mongodb.net[39m
+2024-11-18 14:08:38 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-18 14:08:45 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-18 14:08:45 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-18 14:09:15 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-18 14:09:15 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:40:23 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:40:23 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:41:40 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:41:40 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:42:10 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:42:10 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:42:33 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:42:33 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:43:28 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:43:28 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:43:30 - [35mhttp[39m: [35mGET /api/teste 200 3 9.735 ms[39m
+[35m[39m
+2024-11-19 10:57:46 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:57:47 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:58:56 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:58:56 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 10:59:39 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 10:59:39 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:01:06 - [35mhttp[39m: [35mPOST /api/movie 200 9 9.531 ms[39m
+[35m[39m
+2024-11-19 11:02:58 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:02:58 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:04:05 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:04:05 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:05:40 - [35mhttp[39m: [35mPOST /api/movie 201 147 76.132 ms[39m
+[35m[39m
+2024-11-19 11:10:28 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:10:28 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:17:40 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:17:40 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:18:39 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:18:39 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:18:41 - [35mhttp[39m: [35mPOST /api/movie 201 147 79.039 ms[39m
+[35m[39m
+2024-11-19 11:23:58 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:23:58 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:24:08 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:24:08 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:24:15 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:24:15 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:24:22 - [35mhttp[39m: [35mPOST /api/movie 402 47 14.736 ms[39m
+[35m[39m
+2024-11-19 11:33:37 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:33:37 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:39:09 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:39:09 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:41:06 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:41:06 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:42:09 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:42:09 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:47:37 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:47:37 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:47:44 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:47:44 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:49:01 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:49:01 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:51:28 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:51:28 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:52:36 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:52:36 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:53:07 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:53:07 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:54:24 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:54:24 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:54:36 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:54:36 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:54:48 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:54:48 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:55:14 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:55:14 - [32minfo[39m: [32mRodando na porta 3000[39m
+2024-11-19 11:56:55 - [32minfo[39m: [32mConectou ao db[39m
+2024-11-19 11:56:55 - [32minfo[39m: [32mRodando na porta 3000[39m
